@@ -30,10 +30,10 @@
     "code": "^3.0.2",
     "fsmonitor": "^0.2.4",
     "glue": "^3.3.0",
-    "lab": "^10.9.0"
+    "lab": "^11.0.1"
   },
   "dependencies": {
-    "pellmell": "git+https://github.com/hapipip/pellmell.git#master"
+    "pellmell": "git+https://github.com/Gastonite/pellmell.git#master"
   },
   "peerDependencies": {
     "glue": "3.x"

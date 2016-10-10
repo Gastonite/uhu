@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/hapipip/uhu.svg)](https://travis-ci.org/hapipip/uhu)
 
-### Glue manisfest generator based on directories and config files.
+### Glue manifest generator based on directories and config files.
 
 Uhu provides file configuration based composition on the Glue manifest.
 
